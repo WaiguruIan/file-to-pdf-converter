@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+libre/
+Fonts/
+FileConverterApp_Installer/
+Thumbs.db
+.DS_Store
